@@ -29,8 +29,8 @@ body {
   background-color: #FFF;
 }
 
-a,
-.link {
+#page a,
+#page .link {
   color: #e90189;
 }
 

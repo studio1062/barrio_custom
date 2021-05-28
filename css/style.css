@@ -15,17 +15,17 @@ body {
 
 @font-face {
     font-family: "JetBrains Mono Thin";
-    src: url("/themes/barrio_custom/webfonts/JetBrainsMono-Thin.woff2") format("woff2");
+    src: url("/themes/composer/barrio_custom/webfonts/JetBrainsMono-Thin.woff2") format("woff2");
     font-weight: 300;
 }
 @font-face {
     font-family: "JetBrains Mono Regular";
-    src: url("/themes/barrio_custom/webfonts/JetBrainsMono-Regular.woff2") format("woff2");
+    src: url("/themes/composer/barrio_custom/webfonts/JetBrainsMono-Regular.woff2") format("woff2");
     font-weight: 500;
 }
 @font-face {
     font-family: "JetBrains Mono Bold";
-    src: url("/themes/barrio_custom/webfonts/JetBrainsMono-Bold.woff2") format("woff2");
+    src: url("/themes/composer/barrio_custom/webfonts/JetBrainsMono-Bold.woff2") format("woff2");
     font-weight: 700;
 }
 
@@ -272,7 +272,7 @@ a:focus, .link:focus {
 }
 
 .navbar-toggler-icon {
-    background-image: url("/themes/bootstrap_barrio/subtheme/img/bars-solid.svg");
+    background-image: url("/web/themes/composer/barrio_custom/img/bars-solid.svg");
     text-align: center;
 }
 
